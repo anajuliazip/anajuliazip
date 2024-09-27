@@ -21,5 +21,5 @@
   <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br/>
-
+![Snake animation](https://github.com/anajuliazip)
 Sou estudante de cibersegurança e simplesmente apaixonada por programação!
