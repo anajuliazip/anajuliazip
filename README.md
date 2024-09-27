@@ -21,5 +21,9 @@
   <img align="center" alt="Ana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br/>
-![Snake animation](https://github.com/anajuliazip)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anajuliazip/anajuliazip/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anajuliazip/anajuliazip/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anajuliazip/anajuliazip/output/github-contribution-grid-snake.svg">
+</picture>
 Sou estudante de cibersegurança e simplesmente apaixonada por programação!
