@@ -26,4 +26,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anajuliazip/anajuliazip/output/github-contribution-grid-snake.svg">
 <br/>
 </picture>
-Sou estudante de cibersegurança e simplesmente apaixonada por programação!
+
