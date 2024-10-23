@@ -1,4 +1,4 @@
-## Olá, meu nome é Ana Júlia 🎭
+## Olá, eu sou a Ana Júlia. Muito prazer! 👩‍💻
 <div>
 <a href="https://github.com/anajuliazip">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajuliazip&show_icons=true&theme=cobalt">
